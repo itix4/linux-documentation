@@ -13,6 +13,7 @@ plugins:
 
 theme:
   name: material
+  palette:
+    scheme: slate  
   features:
     - content.action.edit
-    - content.action.view
