@@ -9,8 +9,10 @@ plugins:
   - search
   - git-committers:
       repository: pannikita/linux-documentation
+      branch: main
 
 theme:
   name: material
   features:
     - content.action.edit
+    - content.action.view
