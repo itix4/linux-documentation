@@ -3,6 +3,7 @@ site_name: linux-documentation
 copyright: Главная документация по Linux
 
 repo_url: https://github.com/pannikita/linux-documentation
+repo_name: pannikita/linux-documentation
 edit_uri: edit/main/docs/
 
 plugins:
