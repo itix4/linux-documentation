@@ -5,6 +5,10 @@ copyright: Главная документация по Linux
 repo_url: https://github.com/pannikita/linux-documentation
 edit_uri: edit/main/docs/
 
+plugins:
+  - search
+  - git-authors
+
 theme:
   name: material
   features:
